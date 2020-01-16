@@ -13,7 +13,7 @@ What are your tools and tips for web development and success in the course?
 
 - [D3 API](https://github.com/d3/d3/blob/master/API.md){:target="_blank"}
 - [What's new in D3 v4](https://iros.github.io/d3-v4-whats-new/#1){:target="_blank"}
-    - Is there a v5 post?
+- [What's new in D3 v5](https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-50){:target="_blank"}
 - [A good book on d3 (probably uses v3 still)](http://chimera.labs.oreilly.com/books/1230000000345/index.html){:target="_blank"}
 - [D3 and React -- Jerome Cukier](https://eagereyes.org/link/jerome-cukiers-series-on-visualization-with-react){:target="_blank"}
 - [Making a Scrolling Visualization -- Jim Vallandingham](http://vallandingham.me/scroller.html){:target="_blank"}
