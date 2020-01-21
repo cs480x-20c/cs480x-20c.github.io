@@ -32,18 +32,18 @@ h2, ul {
 
 **Note: some links will be blank until they're assigned/uploaded.**
 
-## Week 0 (Jan 13 - 17)
+## Week 1 (Jan 13 - 17)
 
-### 20-Jan Mon   
+### 15-Jan Wed   
 Topic: Overview of Visualization | Intro to Tools   
 Assigned: Assignment 0 - Course Survey   
 Assigned: Assignment 1 - Hello World: GitHub and d3   
 
-### 23-Jan Thu   
+### 16-Jan Thu   
 Topic: Data Representation  
 Due: Assignment 0 -- 11:59pm   
 
-## Week 1 (Jan 20 - 24)
+## Week 2 (Jan 20 - 24)
 
 Reading:   
 VAD Chapters 1, 2   
@@ -52,72 +52,63 @@ Suggested Reading:
 [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)   
 [Dear Data](http://www.dear-data.com/theproject) (the background and entries themselves)   
 
-### 27-Jan Mon   
+### 23-Jan Thu   
 Topic: Visualization Design   
-Assigned: Assignment 2 - Data Visualization, 10 ways   
+Assigned: Assignment 2 - Data Visualization, N ways   
 
-### 28-Jan Tue   
+## Week 3 (Jan 27 - 31)
+
+Reading:   
+VAD Chapters 3, 4   
+
+### 27-Jan Mon   
+Topic: Visualization Task Abstraction   
 Due: Assignment 1 -- 11:59pm   
 
 ### 30-Jan Thu   
-Topic: Task Abstraction   
+Topic: TBA (likely: lab on recent topics)  
+Assigned: Assignment 3 - Replicating a Classic Experiment   
 
-## Week 2 (Feb 03 - 07)
-
-Reading:   
-VAD Chapters 10   
-
-### 21-Jan Mon   
-Topic: Martin Luther King Jr. Day (No Classes)   
-
-### 24-Jan Thu   
-Topic: TBA  
-Assigned: Final Project   
-
-## Week 3 (Jan 28 - Feb 01)
+## Week 4 (Feb 03 - Feb 07)
 
 Reading:   
-VAD Chapters 5, 6
+VAD Chapters 10, 5
 
 ### 3-Feb Mon   
 Topic: Color    
-Assigned: Assignment 3 - Replicating a Classic Experiment   
-
-### 4-Feb Tue   
 Due: Assignment 2 -- 11:59pm   
 
 ### 6-Feb Thu   
-Topic: Visual Channels
+Topic: Visual Channels  
+Assigned: Final Project
 
-## Week 4 (Feb 10 - 14)
+## Week 5 (Feb 10 - 14)
 
 Reading:   
 VAD Chapters 7, 8
 
 ### 10-Feb Mon   
 Topic: Visualizing Tabular Data   
+Assigned: Assignment 4 - Multiple Views   
 
 ### 13-Feb Thu   
 Topic: Visualizing Spatial Data   
 
-## Week 5 (Feb 17 - 21)
+## Week 6 (Feb 17 - 21)
 Reading:   
 VAD Chapters 9, 11
 
 ### 17-Feb Mon   
 Topic: Visualizing Networks   
-Assigned: Assignment 4 - Maps And Views   
-
-### 18-Feb Tue   
 Due: Assignment 3 -- 11:59pm   
 
-### 19-Feb Wed   
-Due: Project Proposal -- 11:59pm   
+### 18-Feb Tue   
+Due: Project Proposals -- 11:59pm   
 
 ### 20-Feb Thu   
 Topic: Visualizing Trees / Hierarchies   
 
-## Week 6 (Feb 24 - 28)   
+## Week 7 (Feb 24 - 28)   
 Reading: 
 VAD Chapters 12, 13
 
@@ -127,13 +118,14 @@ Topic: Interaction and Advanced Visualization Schemes
 ### 27-Feb Thu   
 No class! Reading day
 
-## Week 7 (Mar 2 - Mar 6)   
-
-### 2-Feb Mon   
-Topic: A4 / Project Workday
-
-### 3-Feb Tue   
+### 28-Feb Fri   
 Due: Assignment 4 -- 11:59pm   
 
-### 5-Feb Thu   
+## Week 8 (Mar 2 - Mar 6)   
+
+### 2-Mar Mon   
+Topic: (Tentative) Final Project Workday
+
+### 5-Mar Thu   
+Topic: Recap Session  
 Due: Final Project -- 11:59pm   
