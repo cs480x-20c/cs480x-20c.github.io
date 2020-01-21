@@ -27,6 +27,7 @@ There are many other great data sources out there. This is a small list to get y
 - [Cyber Security Datasets](http://www.secrepo.com/){:target="_blank"}
 - [Lynn Cherny's Interactive Data Visualization Course](http://arnicas.github.io/interactive-vis-course/){:target="_blank"} -- Good for: data sources, d3 tutorials.
 - [Our World in Data](https://ourworldindata.org/life-expectancy/){:target="_blank"}
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets){:target="_blank"}
 
 
 ## Boston DataVis Meetup
