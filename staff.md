@@ -20,6 +20,6 @@ Office Hours -> Tuesdays and Thursdays from 10am - 12pm
 in FL A22
 
 SAs  
-Office Hours -> TBA     
-Alexander Wurtz   
+Office Hours -> Monday and Wednesday from 3-5pm in FL A22.  
+Alexander Wurts   
 
