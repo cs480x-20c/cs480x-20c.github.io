@@ -9,6 +9,10 @@ Course Description
 
 In this course we study the theory and practice of data visualization, with partial focus towards problems and applications in biology. Topics include fundamental principles, concepts, and techniques of visualization and how visualization can be used to uncover and communicate data-driven insights.
 
+Course slides
+---
+You can access the course slides [here](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing) or on Canvas once it's set up. 
+
 Learning Goals
 ---
 
