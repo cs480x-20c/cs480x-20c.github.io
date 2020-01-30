@@ -62,11 +62,11 @@ Reading:
 VAD Chapters 3, 4   
 
 ### 27-Jan Mon   
-Topic: Visualization Task Abstraction   
+Topic: [Visual Channels](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing)
 Due: Assignment 1 -- 11:59pm   
 
 ### 30-Jan Thu   
-Topic: TBA (likely: lab on recent topics)  
+Topic: [Color](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing) 
 Assigned: Assignment 3 - Replicating a Classic Experiment   
 
 ## Week 4 (Feb 03 - Feb 07)
