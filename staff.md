@@ -16,7 +16,7 @@ Office Hours -> TBA @ FL136
 
 TAs   
 Noëlle Rakotondravony
-Office Hours -> Tuesdays and Thursdays from 10am - 12pm   
+Office Hours -> Tuesdays and Thursdays from 9am - 11pm   
 in FL A22
 
 SAs  
