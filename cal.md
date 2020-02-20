@@ -107,25 +107,25 @@ Due: Assignment 3 -- 11:59pm
 Topic: Visualizing Trees / Hierarchies   
 
 ### 21-Feb Fri   
-Due: Project Proposals -- 11:59pm   
+Due: [Project Proposals -- 11:59pm](https://docs.google.com/forms/d/e/1FAIpQLSca7R6fNa67vwE2sFHNus7aqaeU9Brr_tIzb-9_tmZff4psdQ/viewform?usp=sf_link)   
 
 ## Week 7 (Feb 24 - 28)   
 Reading: 
-VAD Chapters 12, 13
+~~VAD Chapters 12, 13~~  
+TBD
 
 ### 24-Feb Mon   
 Topic: Interaction and Advanced Visualization Schemes   
+No Reflection
 
 ### 27-Feb Thu   
-No class! Reading day
-
-### 28-Feb Fri   
-Due: Assignment 4 -- 11:59pm   
+No class! (No quiz) Reading day
 
 ## Week 8 (Mar 2 - Mar 6)   
 
 ### 2-Mar Mon   
 Topic: (Tentative) Final Project Workday
+Due: Assignment 4 -- 11:59pm   
 
 ### 5-Mar Thu   
 Topic: Recap Session  
