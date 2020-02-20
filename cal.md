@@ -103,11 +103,11 @@ VAD Chapters 9, 11
 Topic: Visualizing Networks   
 Due: Assignment 3 -- 11:59pm   
 
-### 18-Feb Tue   
-Due: Project Proposals -- 11:59pm   
-
 ### 20-Feb Thu   
 Topic: Visualizing Trees / Hierarchies   
+
+### 21-Feb Fri   
+Due: Project Proposals -- 11:59pm   
 
 ## Week 7 (Feb 24 - 28)   
 Reading: 
