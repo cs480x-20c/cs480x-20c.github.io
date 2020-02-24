@@ -115,8 +115,7 @@ Reading:
 TBD
 
 ### 24-Feb Mon   
-Topic: Interaction and Advanced Visualization Schemes   
-No Reflection
+Topic: Visualization Design   
 
 ### 27-Feb Thu   
 No class! (No quiz) Reading day
@@ -124,8 +123,9 @@ No class! (No quiz) Reading day
 ## Week 8 (Mar 2 - Mar 6)   
 
 ### 2-Mar Mon   
-Topic: (Tentative) Final Project Workday
+Topic: (Tentative) Final Project Workday  
 Due: Assignment 4 -- 11:59pm   
+No Reflection
 
 ### 5-Mar Thu   
 Topic: Recap Session  
